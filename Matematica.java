@@ -1,5 +1,6 @@
 public class Matematica{
-	public static int soma(int a, int b){
-		return a + b;
-	}
+	public static void main(String[] args) {
+        // seu código aqui
+        System.out.println("Olá, Jenkins!");
+    }
 }
